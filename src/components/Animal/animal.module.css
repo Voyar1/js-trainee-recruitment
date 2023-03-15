@@ -1,0 +1,33 @@
+.animalCard {
+  margin-bottom: 4rem;
+}
+
+.animalName {
+  color: #71717a;
+  font-weight: 700;
+  font-size: 0.75rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.animalSubTitle {
+  color: #18181b;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.animalSubTitle span {
+  color: #f97316;
+}
+
+.animalImage {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.animalImage img {
+  width: 100%;
+  height: 100%;
+}
